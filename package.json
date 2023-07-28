@@ -1,0 +1,25 @@
+{
+  "name": "assignment4",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jotai": "^2.2.2",
+    "jsonwebtoken": "^9.0.1",
+    "jwt-decode": "^3.1.2",
+    "next": "13.4.6",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.0",
+    "swr": "^2.1.5"
+  }
+}
